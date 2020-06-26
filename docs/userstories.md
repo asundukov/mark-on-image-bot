@@ -11,7 +11,7 @@
 8. GET `/manage/questionnaires/{qiestionnaireId}/results` to watch results
 
 
-# General way to answer questionnaire
+# General way to answer questionnaire.
 
 1. POST `/public/questionnaires/{questionnaireId}/attempts` to create new attempt. Receive new `{attemptId}`
 2. POST `/public/questionnaires/{questionnaireId}/attempts/{attemptId}/answers` with `{questionId}` to answer question from questionnaire.
