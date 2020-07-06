@@ -26,7 +26,7 @@ As a standart Spring Boot appliactoin
 1. Spring boot 2+
 1. Flyway db
 
-## Licence
+## License
 Apache 2.0
 
 ## API
